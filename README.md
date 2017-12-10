@@ -1,3 +1,3 @@
 # hello-world
-# my first repository
-My name is Rachel and I want to become a better coder. 
+My first repository  
+Hi, my name is Rachel and I want to become a better coder. 
